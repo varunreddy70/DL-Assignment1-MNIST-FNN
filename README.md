@@ -37,7 +37,7 @@ cd DL-Assignment1-MNIST-FNN
 ### Open the Jupyter Notebook:
 
 ```bash
-jupyter notebook DL_Assignment_192.ipynb
+jupyter notebook MNIST_FNN_Classification.ipynb
 ```
 Run the notebook cells sequentially to:
 
