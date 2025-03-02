@@ -1,4 +1,4 @@
-Implementation of a Feedforward Neural Network (FNN) for MNIST digit classification.
+# Implementation of a Feedforward Neural Network (FNN) for MNIST digit classification.
 
 ## Overview
 This project implements a Feedforward Neural Network (FNN) for digit classification using the MNIST dataset. The model is built using TensorFlow/Keras and optimized with various hyperparameters.
@@ -22,11 +22,11 @@ pip install tensorflow numpy matplotlib scikit-learn
 
 ## Usage
 Clone the repository and navigate to the project folder:
-git clone <repo-link>
+git clone https://github.com/varunreddy70/DL-Assignment1-MNIST-FNN/
 cd deep-learning-mnist
 
 Run the Jupyter Notebook:
-jupyter notebook DL_Assignment_1.ipynb
+jupyter notebook DL_Assignment_192.ipynb
 
 ## Results
 - **Best Model Accuracy:** 97.67%
